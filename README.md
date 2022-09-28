@@ -1,16 +1,43 @@
-### Hi there 👋
+# Prazer Colegas!
 
-<!--
-**PHMac20XX2/PHMac20XX2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Pedro, mas podem me chamar de PHM, sou Programador Back-End Jr.
 
-Here are some ideas to get you started:
+- Sou acadêmico de Ciências da Computação;
+- Atualmente estou estudando e aprendendo PowerBI e MySQL;
+- Adoro fazer cursos;
+- Meu objetivo é me tornar futuramante um Cîentista de Dados;
+- Nos tempos livres, gosto de jogar em Emuladores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+##  Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+---
+
+
+##  Informações GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phmac20xx2&show_icons=true)
+
+
+---
+
+
+## Contatos:
+
+<p align="left">
+
+  <a href="https://mail.google.com/mail/u/0/#inbox" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" /></a>
+
+  <a href="https://www.linkedin.com/in/pedro-macedo-62b597247/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-macedo-62b597247/" /></a>
+  
+</p>
