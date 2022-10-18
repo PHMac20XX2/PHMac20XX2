@@ -6,7 +6,6 @@ Sou o Pedro, mas podem me chamar de PHM, sou Programador Back-End Jr.
 - Atualmente estou estudando e aprendendo PowerBI e MySQL;
 - Adoro fazer cursos;
 - Meu objetivo é me tornar futuramante um Cientista de Dados;
-- Nos tempos livres, gosto de jogar em Emuladores.
 
 
 ---
