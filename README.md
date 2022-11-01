@@ -4,12 +4,9 @@ Sou o Pedro, mas podem me chamar de PHM, sou Programador Back-End Jr.
 
 - Sou acadêmico de Ciências da Computação;
 - Atualmente estou estudando e aprendendo PowerBI e MySQL;
-- Adoro fazer cursos;
 - Meu objetivo é me tornar futuramante um Cientista de Dados;
 
-
 ---
-
 
 ##  Minhas Skills
 
@@ -23,7 +20,7 @@ Sou o Pedro, mas podem me chamar de PHM, sou Programador Back-End Jr.
 
 ##  Informações GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phmac20xx2&show_icons=true)
+![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true))
 
 
 ---
