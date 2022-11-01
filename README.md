@@ -20,7 +20,7 @@ Sou o Pedro, mas podem me chamar de PHM, sou Programador Back-End Jr.
 
 ##  Informações GitHub
 
-![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 ---
