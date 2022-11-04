@@ -1,9 +1,9 @@
 # Prazer Colegas!
 
-Sou o Pedro, mas podem me chamar de PHM, sou Programador Back-End Jr.
+Sou o Pedro, mas podem me chamar de PHM, atuo como Programador Back-End Jr.
 
 - Sou acadêmico de Ciências da Computação;
-- Atualmente estou estudando e aprendendo PowerBI e MySQL;
+- Atualmente estou estudando PowerBI e MySQL;
 - Meu objetivo é me tornar futuramante um Cientista de Dados;
 
 ---
