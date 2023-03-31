@@ -16,12 +16,6 @@ Sou o Pedro, mas podem me chamar de PHM, atuo como Programador Back-End Jr.
 
 ---
 
-
-##  Informações GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PHMac20XX2&theme=dark&show_icons=true)
-
-
 ---
 
 
