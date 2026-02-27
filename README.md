@@ -2,9 +2,9 @@
 
 Sou o Pedro, mas podem me chamar de PHM, atuo como Programador Back-End Jr.
 
-- Sou acadêmico de Ciências da Computação;
-- Atualmente estou estudando PowerBI e MySQL;
-- Meu objetivo é me tornar futuramente um Cientista de Dados;
+- Sou acadêmico de Análise e Desenvolvimento de Sistemas;
+- Atualmente estou estudando JavaScript/React;
+- Busco me tornar um programador full-stack;
 
 ---
 
